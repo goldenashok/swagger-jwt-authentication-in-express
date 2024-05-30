@@ -10,9 +10,10 @@ Implemented Below Feature
 - JWT (json web token)
 - nodemon feature
 
-Clone the project
-instll the necessary package using npm i
-Then start npm start
+1. Clone the project
+2. change directory ```cd/swagger-jwt-authentication-in-express```
+3. instll the necessary package using ```npm install```
+4. Then start ```npm start```
 
 swagger screen shot
 ![image](https://github.com/goldenashok/swagger-jwt-authentication-in-express/assets/13637127/01ad7148-f8d4-4c48-879d-d3d4acc59483)
