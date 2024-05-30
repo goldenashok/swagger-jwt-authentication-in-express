@@ -22,10 +22,12 @@ http://localhost:3000
 ![image](https://github.com/goldenashok/swagger-jwt-authentication-in-express/assets/13637127/13b5b13a-d999-4c2a-a8b7-c62bde0eed82)
 
 For login [Method : POST] http://localhost:3000/login
+
 Body Data {"username": "ashok"}
 
 
 Calling other API with Authorization token http://localhost:4000/protect
+
 Need to pass Authorization token in the header link below image
 
 
