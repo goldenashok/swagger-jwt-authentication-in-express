@@ -3,6 +3,7 @@ Implemented Swagger with JWT token globally in express api
 
 Implemented Below Feature
 - Cors with whitelist option
+- openapi
 - swagger for get, post, put, delete
 - swagger for JWT token
 - 
