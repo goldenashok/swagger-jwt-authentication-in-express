@@ -6,4 +6,6 @@ Implemented Below Feature
 - openapi
 - swagger for get, post, put, delete
 - swagger for JWT token
-- 
+- dotenv feature
+- JWT (json web token)
+- nodemon feature
