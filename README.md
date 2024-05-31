@@ -10,6 +10,22 @@ Implemented Below Feature
 - JWT (json web token)
 - nodemon feature
 
+For Global Authentication we have to configure in the swaggerConfig like below. for specific have to set component wise
+```
+components: {
+        securitySchemes: {
+            bearerAuth: {
+                type: 'http',
+                scheme: 'bearer',
+                bearerFormat: 'JWT',
+            }
+        }
+    },
+    security: [{
+        bearerAuth: []
+    }]
+```
+
 1. Clone the project
 2. change directory ```cd/swagger-jwt-authentication-in-express```
 3. instll the necessary package using ```npm install```
