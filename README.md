@@ -10,6 +10,9 @@ Implemented Below Feature
 - JWT (json web token)
 - nodemon feature
 
+API route for Swagger Documentation
+```apis: ['./*.js', './routes/api/*.js', './swagger/*.js'],```
+
 For Global Authentication we have to configure in the swaggerConfig like below. for specific have to set component wise
 ```
 components: {
