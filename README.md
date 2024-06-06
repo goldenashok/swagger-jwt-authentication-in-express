@@ -10,6 +10,8 @@ Implemented Below Feature
 - JWT (json web token)
 - nodemon feature
 
+- convert .env.example to .env
+  
 API route for Swagger Documentation
 ```apis: ['./*.js', './routes/api/*.js', './swagger/*.js'],```
 
